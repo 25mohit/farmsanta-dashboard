@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&display=swap");
+
+:root {
+  --color-primary: #00601B;
+  --color-primary-dark: #0c3b35;
+  --color-secondary: #7c7a7a;
+  --color-secondary-light: #7c7a7a;
+  --color-ternary: #c8efda;
+  --color-orange: #FF8E24;
+
+  --color-tertiary: #efefef;
+  --color-light: rgb(162, 162, 162);
+  --color-table-font: rgba(73, 80, 88);
+  --color-font-light: rgb(81, 81, 81);
+  --color-active: rgba(200, 239, 218, 1);
+  --color-inactive: rgba(245, 200, 214, 1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
